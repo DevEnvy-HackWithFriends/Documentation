@@ -1,6 +1,8 @@
 # Documentation
 This project includes all the documentation for creating and maintaining Docker containers and Che workspaces.
 
+You can view the full Google Doc at: https://docs.google.com/document/d/1EubdOVb4f2I7dKux-w_FmA48H9vyPgBgrAcuzUZkn_8/edit?usp=sharing, or read the pdfs uploaded in this folder.
+
 1) Install and run Docker and Che. Read DevEnvy_documentation_1_install_and_run.pdf
 
 2) Create a new workspace in Che. Read DevEnvy_documentation_2_che_create_new_workspace.pdf
