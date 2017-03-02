@@ -12,7 +12,8 @@ You can view the full Google Doc at: https://docs.google.com/document/d/1EubdOVb
 If you have any problems, feel free to read our troubleshooting guide, DevEnvy_documentation_troubleshooting.pdf.
 
 # About
-The repository DevEnvy-HackWithFriends was created by a team of awesome people for the University of Michigan's Hacks with Friends 2017. All code is copyrighted by the University of Michigan.
+The repository DevEnvy-HackWithFriends was created by a team of awesome people for the University of Michigan's Hacks with Friends 2017. Learn more about the initial pitch by reading DevEnvy_proposal.pdf 
+All code is copyrighted by the University of Michigan.
 
 # Known issues at this time include:
 * ...
