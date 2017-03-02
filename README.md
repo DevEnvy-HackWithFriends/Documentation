@@ -15,5 +15,7 @@ If you have any problems, feel free to read our troubleshooting guide, DevEnvy_d
 The repository DevEnvy-HackWithFriends was created by a team of awesome people for the University of Michigan's Hacks with Friends 2017. Learn more about the initial pitch by reading DevEnvy_proposal.pdf 
 All code is copyrighted by the University of Michigan.
 
+For more information about Docker terminology, see http://www.javaworld.com/article/3000781/development-tools/open-source-java-projects-docker.html
+
 # Known issues at this time include:
 * ...
