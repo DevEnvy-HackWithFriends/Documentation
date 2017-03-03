@@ -7,9 +7,11 @@ You can view the full Google Doc at: https://docs.google.com/document/d/1EubdOVb
 
 2) Create a new workspace in Che. Read DevEnvy_documentation_2_che_create_new_workspace.pdf
 
-3) Import a project from Github. We used Java Springboot found at: https://spring.io/guides/gs/spring-boot-docker/. Read DevEnvy_documentation_3_import_project_from_github.pdf.
+3) Import a project from Github. We used Java Springboot found at: https://spring.io/guides/gs/spring-boot-docker/. Read DevEnvy_documentation_3_import_project_from_github.pdf
 
-4) Clone a project from Github. Read DevEnvy_documentation_4_clone_project_from_github.pdf.
+4) Clone a project from Github. Read DevEnvy_documentation_4_clone_project_from_github.pdf
+
+5) Configure your project for Che. Read DevEnvy_documentation_5_configure_project_for_che.pdf
 
 If you have any problems, feel free to read our troubleshooting guide, DevEnvy_documentation_troubleshooting.pdf.
 
