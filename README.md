@@ -32,6 +32,8 @@ For more information about Docker terminology, see http://www.javaworld.com/arti
 
 To clean hanging Docker volumes and machines, see https://github.com/chadoe/docker-cleanup-volumes
 
+Che configuration: https://eclipse.org/che/docs/setup/configuration/index.html
+
 
 # Next Steps:
 * Use Docker Compose to implement Docker/Che mid-project for projects with large databases
