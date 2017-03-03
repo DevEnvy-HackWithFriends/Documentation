@@ -9,7 +9,7 @@ You can view the full Google Doc at: https://docs.google.com/document/d/1EubdOVb
 
 3) Import a project from Github. We used Java Springboot found at: https://spring.io/guides/gs/spring-boot-docker/. Read DevEnvy_documentation_3_import_project_from_github.pdf
 
-4) Clone a project from Github. Read DevEnvy_documentation_4_clone_project_from_github.pdf
+4) Clone and run a project from Github. Read DevEnvy_documentation_4_clone_project_from_github.pdf
 
 5) Configure your project for Che. Read DevEnvy_documentation_5_configure_project_for_che.pdf
 
