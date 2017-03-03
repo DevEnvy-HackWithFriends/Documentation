@@ -18,7 +18,7 @@ If you have any problems, feel free to read our troubleshooting guide, DevEnvy_d
 Environments supported on this repository:
 * Java - Springboog
 * Java - Springweb
-* Python
+* PhP
 * Ruby on Rails
 
 # About
